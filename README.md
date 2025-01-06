@@ -130,8 +130,9 @@ This is a simple task management system that allows users to create, update, sea
    ```bash
    ./mvnw spring-boot:run
    ```
-
-The API will start on http://localhost:8080.
+The API will start on http://localhost:8081. You can access:
+  - **API endpoints at http://localhost:8081**
+  - **Swagger UI documentation at http://localhost:8081/swagger-ui/index.html#/**
 
 ## Testing
 
